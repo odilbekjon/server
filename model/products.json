@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S7",
+        "price": "200 $",
+        "url": "https://yandex.uz/images/search?text=samsung%20galaxy%20telefonlar&pos=3&img_url=https%3A%2F%2Fimages.frandroid.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsamsung-galaxy-s6-blanc.jpg&rpt=simage",
+        "shopID": 1
+    },
+    {
+        "id": 2,
+        "name": "Test1 ",
+        "price": "500 000",
+        "url": "https://yandex.uz/images/search?text=samsung%20galaxy%20telefonlar&pos=3&img_url=https%3A%2F%2Fimages.frandroid.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsamsung-galaxy-s6-blanc.jpg&rpt=simage",
+        "shopID": 1
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 PRO",
+        "price": "22000 $",
+        "url": "https://yandex.uz/images/search?text=samsung%20galaxy%20telefonlar&pos=3&img_url=https%3A%2F%2Fimages.frandroid.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsamsung-galaxy-s6-blanc.jpg&rpt=simage",
+        "shopID": 2
+    },
+    {
+        "id": 4,
+        "name": "Nokia",
+        "price": "20 $",
+        "url": "https://yandex.uz/images/search?text=samsung%20galaxy%20telefonlar&pos=3&img_url=https%3A%2F%2Fimages.frandroid.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsamsung-galaxy-s6-blanc.jpg&rpt=simage",
+        "shopID": 2
+    },
+    {
+        "id": 5,
+        "name": "Samsung A5",
+        "price": "2300 $",
+        "url": "https://yandex.uz/images/search?text=samsung%20galaxy%20telefonlar&pos=3&img_url=https%3A%2F%2Fimages.frandroid.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsamsung-galaxy-s6-blanc.jpg&rpt=simage",
+        "shopID": 3
+    },
+    {
+        "id": 6,
+        "name": "Aphone",
+        "price": "5000$",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "name": "Aphone",
+        "price": "5000$",
+        "url": ""
+    },
+    {
+        "id": 8,
+        "name": "Aphone",
+        "price": "5000$",
+        "url": ""
+    },
+    {
+        "id": 9,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 10,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 11,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 12,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 13,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 14,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 15,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    },
+    {
+        "id": 16,
+        "name": "Aphone 18",
+        "price": "50 000 000",
+        "shopID": "5",
+        "url": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Abdusattor aka",
+        "number": "15-do'kon",
+        "category": 2
+    },
+    {
+        "id": 2,
+        "name": "Asqar aka",
+        "number": "1-do'kon",
+        "category": 2
+    },
+    {
+        "id": 3,
+        "name": "Asadbek aka",
+        "number": "2",
+        "category": "1"
+    },
+    {
+        "id": 4,
+        "name": "Asadbek aka",
+        "number": "2-do'kon",
+        "category": "1"
+    },
+    {
+        "id": 5,
+        "name": "Asqar aka",
+        "number": "2-do'kon",
+        "category": "1"
+    },
+    {
+        "id": 6,
+        "name": "Shokir aka",
+        "number": "10-do'kon",
+        "category": "4"
+    },
+    {
+        "id": 7,
+        "name": "Zur dukon",
+        "number": "18-dukon",
+        "category": "5"
+    }
+]
